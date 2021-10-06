@@ -1,0 +1,14 @@
+*{
+    margin:0px 0px 0px 0px;
+    padding:0px 0px 0px 0px;
+}
+nav{
+    background-color: rgba(89, 0, 255, 0.658);
+}
+nav ul{
+    list-style-type: none;
+}
+nav ul li{
+    padding-left: 100px;
+    float: left;
+}
